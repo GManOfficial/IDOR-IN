@@ -1,0 +1,97 @@
+Student Grades: /student/{student_id}/grades
+Course Enrollment: /course/{course_id}/enrollment
+Teacher Schedule: /teacher/{teacher_id}/schedule
+Library Book Details: /library/book/{book_id}
+Research Project Details: /research-project/{project_id}
+Alumni Profile: /alumni/{alumni_id}/profile
+Event Registration: /event/{event_id}/registration
+Exam Results: /exam/{exam_id}/rStudent Grades: /student/{student_id}/grades
+Course Enrollment: /course/{course_id}/enrollment
+Teacher Schedule: /teacher/{teacher_id}/schedule
+Library Book Details: /library/book/{book_id}
+Research Project Details: /research-project/{project_id}
+Alumni Profile: /alumni/{alumni_id}/profile
+Event Registration: /event/{event_id}/registration
+Exam Results: /exam/{exam_id}/results
+Student Attendance: /student/{student_id}/attendance
+Course Materials: /course/{course_id}/materials
+Faculty Office Hours: /faculty/{faculty_id}/office-hours
+Scholarship Details: /scholarship/{scholarship_id}
+Student Clubs/Organizations: /student/{student_id}/clubs
+Research Publication: /research/{publication_id}
+Alumni Network: /alumni/network
+For the Shopping Website:
+
+User Orders: /user/{user_id}/orders
+Order Details: /order/{order_id}
+Product Reviews: /product/{product_id}/reviews
+Wishlist: /user/{user_id}/wishlist
+Personalized Recommendations: /user/{user_id}/recommendations
+Cart Items: /user/{user_id}/cart/items
+Gift Card Balance: /user/{user_id}/gift-card/balance
+User Profile: /user/{user_id}/profile
+Order Tracking: /order/{order_id}/tracking
+Address Book: /user/{user_id}/address-book
+Store Locations: /store/{location_id}
+Gift Registry: /registry/{registry_id}
+Product Variations: /product/{product_id}/variations
+User Subscriptions: /user/{user_id}/subscriptions
+Discount Coupons: /coupon/{coupon_id}
+For the SMM Panel Website:
+
+User Campaigns: /user/{user_id}/campaigns
+Campaign Performance: /campaign/{campaign_id}/performance
+Social Media Influencer Stats: /influencer/{influencer_id}/stats
+Billing Information: /user/{user_id}/billing
+API Access Tokens: /user/{user_id}/api-tokens
+Content Approval: /content/{content_id}/approval
+Target Audience Preferences: /user/{user_id}/audience-preferences
+User Notifications: /user/{user_id}/notifications
+Social Media Analytics: /analytics
+Content Creation/Design Tools: /content-tools
+Influencer Collaboration: /influencers
+Automated Posting/Scheduling: /scheduler
+Social Media Advertising: /advertising
+Target Audience Analysis: /audience-analysis
+API Integration: /apiesults
+Student Attendance: /student/{student_id}/attendance
+Course Materials: /course/{course_id}/materials
+Faculty Office Hours: /faculty/{faculty_id}/office-hours
+Scholarship Details: /scholarship/{scholarship_id}
+Student Clubs/Organizations: /student/{student_id}/clubs
+Research Publication: /research/{publication_id}
+Alumni Network: /alumni/network
+For the Shopping Website:
+
+User Orders: /user/{user_id}/orders
+Order Details: /order/{order_id}
+Product Reviews: /product/{product_id}/reviews
+Wishlist: /user/{user_id}/wishlist
+Personalized Recommendations: /user/{user_id}/recommendations
+Cart Items: /user/{user_id}/cart/items
+Gift Card Balance: /user/{user_id}/gift-card/balance
+User Profile: /user/{user_id}/profile
+Order Tracking: /order/{order_id}/tracking
+Address Book: /user/{user_id}/address-book
+Store Locations: /store/{location_id}
+Gift Registry: /registry/{registry_id}
+Product Variations: /product/{product_id}/variations
+User Subscriptions: /user/{user_id}/subscriptions
+Discount Coupons: /coupon/{coupon_id}
+For the SMM Panel Website:
+
+User Campaigns: /user/{user_id}/campaigns
+Campaign Performance: /campaign/{campaign_id}/performance
+Social Media Influencer Stats: /influencer/{influencer_id}/stats
+Billing Information: /user/{user_id}/billing
+API Access Tokens: /user/{user_id}/api-tokens
+Content Approval: /content/{content_id}/approval
+Target Audience Preferences: /user/{user_id}/audience-preferences
+User Notifications: /user/{user_id}/notifications
+Social Media Analytics: /analytics
+Content Creation/Design Tools: /content-tools
+Influencer Collaboration: /influencers
+Automated Posting/Scheduling: /scheduler
+Social Media Advertising: /advertising
+Target Audience Analysis: /audience-analysis
+API Integration: /api
